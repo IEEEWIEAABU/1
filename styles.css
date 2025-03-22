@@ -79,6 +79,7 @@ header {
     top: 0;
     z-index: 1000;
     direction: ltr;
+     max-height: 35%;
 }
 
 header .logo {
